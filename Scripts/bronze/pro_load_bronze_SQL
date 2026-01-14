@@ -13,7 +13,7 @@ Scripts Purpose:
         This stored procedure does not accept any parameters to return any values.
 
     Usage Example:
-        EXEC bronze.Load_Bronnze;
+        EXEC bronze.Load_Bronze;
     ======================================================================================
 */
 
